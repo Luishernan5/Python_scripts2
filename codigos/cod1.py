@@ -1,7 +1,7 @@
 class NombreClase():
     
     # Estructura (primero atributos luego metodos):
-    # Atributos de clase:
+    # Atributos de clase
     atributos1 = "valor1"
     atributos2 = "valor2"
 
