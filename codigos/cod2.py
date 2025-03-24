@@ -1,5 +1,5 @@
 class Vehiculo():
-    # Atributo:
+    # Atributo.
     color = None # No hay valor nulo (None)
     longitud_m = None
     ruedas = 4
